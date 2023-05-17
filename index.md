@@ -1,8 +1,10 @@
-# Python Basics for Absolute Beginners TESTING
+# Web Scraping in Python
+
+I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course.</a> 
 
 ## Day 1 (September 6)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping%2F&urlpath=tree%2FWeb-Scraping%2Fgogo.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
