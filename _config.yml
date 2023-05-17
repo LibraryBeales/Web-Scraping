@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: University Library Data Literacy Workshop Series
-description: This website contains the learning materials for a 3 part workshop on Python Basics.
+title: Digital Scholarship Workshop Series: Web Scraping
+description:Jupyter Notebooks for exploring the practice and possibilities of web scraping.
 show_downloads: false # shows download links for the repository
-logo: logo.png # can easily be replaced with an institutional logo by uploading a new file
+logo: # can easily be replaced with an institutional logo by uploading a new file
