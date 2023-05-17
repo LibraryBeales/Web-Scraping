@@ -1,3 +1,6 @@
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+
+
 # Constellate Workshop Series Template
 
 This repository is an example for teaching workshops and/or classes using [Constellate](https://constellate.org/). Constellate is the text analytics service from the not-for-profit [ITHAKA](https://www.ithaka.org/) - the same people who brought you [JSTOR](https://www.jstor.org/) and [Portico](https://www.portico.org/). It is a platform for teaching, learning, and performing text analysis using the world’s leading archival repositories of scholarly and primary source content.
