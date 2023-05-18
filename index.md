@@ -7,18 +7,27 @@ The content on the web is incredibly diverse, so web scraping scripts are usuall
 If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
 
 
-## Project #1: Getting Started with Web Scraping
+## Project #1: Making an HTTP Request and Receiving a Response
 
 This first project will use the `requests` package to introduce the basic web scraping workflow.  
+
+In this project you will:
     1. Send a request to a web server.
     2. Check for a response.
     3. View the content of that response.
     4. Save that content to a file. 
 
-
-
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=gogo.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
+## Project #2: Exploring and Analyzing Data from Web Scraping 
+
+This first project will use the `requests` package to introduce the basic web scraping workflow.  
+
+In this project you will:
+    1. Send a request to a web server.
+    2. Check for a response.
+    3. View the content of that response.
+    4. Save that content to a file. 
 
 
 Import complete web scraping repo into Constellate.
