@@ -1,42 +1,21 @@
 # Web Scraping in Python
 
-I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course.</a> 
+Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  
 
-Whole repo in Constellate
-[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
+
+If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
 
 
-## Section 1
+## Project #1: Getting Started with Web Scraping
+
+This first project will use the req
+
+
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=gogo.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 
-This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
-
-## Section 2
-
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
-
-This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
-* [Boolean values](https://docs.constellate.org/key-terms/#boolean-value)
-* [Boolean operators](https://docs.constellate.org/key-terms/#boolean-operator)
-* [Comparison operators](https://docs.constellate.org/key-terms/#comparison-operator)
-* `if` statements
-* `else` statements
-* `elif` statements
-* `while` and `for` loop statements
-* Handling errors with `try` and `except`
-
-This lesson describes the basics of [lists](https://docs.constellate.org/key-terms/#list) and [dictionaries](https://docs.constellate.org/key-terms/#dictionary) including:
-
-* The `in` and `not in` [operators](https://docs.constellate.org/key-terms/#operator)
-* [Lists](https://docs.constellate.org/key-terms/#list)
-* [List](https://docs.constellate.org/key-terms/#list) methods (`index()`, `append()`, `insert()`, `sort()`)
-* [Dictionaries](https://docs.constellate.org/key-terms/#dictionary)
-* [Dictionary](https://docs.constellate.org/key-terms/#dictionary) methods (`update()`, `keys()`, `values()`, `items()`, `get()`
-
-**Note:** The Python Basics Series contains two additional notebook templates. See them and many more Constellate lesson templates in [our GitHub repository](https://github.com/ithaka/tdm-notebooks/).
-
-## Section 3
-We will show how to teach your own form of Python Basics at your institution using GitHub.
+Import complete web scraping repo into Constellate.
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
