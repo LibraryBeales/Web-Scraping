@@ -9,7 +9,11 @@ If you are new to using Constellate, python and jupyter notebooks, I recommend t
 
 ## Project #1: Getting Started with Web Scraping
 
-This first project will use the req
+This first project will use the `requests` package to introduce the basic web scraping workflow.  
+    1. Send a request to a web server.
+    2. Check for a response.
+    3. View the content of that response.
+    4. Save that content to a file. 
 
 
 
