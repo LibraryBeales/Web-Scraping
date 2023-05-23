@@ -12,10 +12,10 @@ If you are new to using Constellate, python and jupyter notebooks, I recommend t
 This first project will use the `requests` package to introduce the basic web scraping workflow.  
 
 In this project you will:
-    1. Send a request to a web server.
-    2. Check for a response.
-    3. View the content of that response.
-    4. Save that content to a file. 
+1. Send a request to a web server.
+2. Check for a response.
+3. View the content of that response.
+4. Save that content to a file. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=gogo.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
@@ -24,11 +24,12 @@ In this project you will:
 This first project will use the `requests` package to introduce the basic web scraping workflow.  
 
 In this project you will:
-    1. Send a request to a web server.
-    2. Check for a response.
-    3. View the content of that response.
-    4. Save that content to a file. 
+1. Send a request to a web server.
+2. Check for a response.
+3. View the content of that response.
+4. Save that content to a file. 
 
 
 Import complete web scraping repo into Constellate.
+
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
