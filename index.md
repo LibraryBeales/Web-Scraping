@@ -17,7 +17,7 @@ In this project you will:
 3. View the content of that response.
 4. Save that content to a file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=gogo.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=template.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 ## Project #2: Exploring and Analyzing Data from Web Scraping 
 
@@ -31,5 +31,9 @@ In this project you will:
 
 
 Import complete web scraping repo into Constellate.
+<<<<<<< HEAD
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+=======
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+>>>>>>> 5acf133179eee315059f681bf502ed3ae3ba0b4e
