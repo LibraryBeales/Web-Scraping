@@ -34,6 +34,3 @@ Import complete web scraping repo into Constellate.
 <<<<<<< HEAD
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
-=======
-[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
->>>>>>> 5acf133179eee315059f681bf502ed3ae3ba0b4e
