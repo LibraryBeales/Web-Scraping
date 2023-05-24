@@ -6,6 +6,18 @@ The content on the web is incredibly diverse, so web scraping scripts are usuall
 
 If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
 
+## Why web scrape?
+
+The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access that information as well.
+
+For example, if you were interested in analyzing how people communicate on social media about the NASDAQ, you could manually search for posts tagged with #NASDAQ, copy and paste them or screen shot them, and then begin manually organizing the user names, likes, tags, text content, etc.  You would be limited in the sample size you could analyze by the amount of labor required.
+
+If, however, you built a web scraper to crawl a site and capture every post with a #NASDAQ tag, you'd be able to capture a much larger sample size and save the data in an acccessible format for future researchers.  Analysis of that data, also using python, would allow you to quickly see who posts the most, which posts have the most likes, what stock tickers are mentioned most frequestly in a given time span, etc.  
+
+In short, web scraping makes the endless data available online accessible and useful. 
+
+
+
 
 ## Project #1: Making an HTTP Request and Receiving a Response
 
@@ -29,8 +41,5 @@ In this project you will:
 3. View the content of that response.
 4. Save that content to a file. 
 
-
-Import complete web scraping repo into Constellate.
-<<<<<<< HEAD
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
