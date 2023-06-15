@@ -33,13 +33,37 @@ In this project you will:
 
 ## Project #2: Exploring and Analyzing Data from Web Scraping 
 
-This first project will use the `requests` package to introduce the basic web scraping workflow.  
+This second project will explore the data we have saved from the first project.
 
-In this project you will:
 1. Send a request to a web server.
 2. Check for a response.
 3. View the content of that response.
 4. Save that content to a file. 
+
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+
+
+## Project #3: Refine your scraping to get specific info using Beautiful Soup
+
+
+
+
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+
+## Project #4: Scraping sets of related information into CSV files.
+
+
+
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+
+## Project #5: What's next?  Scraping other pages.
+
+In this project you will:
+1. Begin with a new web page.
+2. Choose info to scrape.
+3. Build a web scraper specifically for this site and this info.
+4. Save that content to a file.
+
 
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
