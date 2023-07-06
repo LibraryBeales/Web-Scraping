@@ -30,14 +30,14 @@ In this project you will:
 4. Save that content to a file. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=template.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
-
+To use Constellate you will have to create a JSTOR login that is separate from your case login.  Instructions for that are here:  <a href="#">LINK</a>
 ## Project #2: Exploring and Analyzing Data from Web Scraping 
 
-This second project will explore the data we have saved from the first project.
+Normally, in a web scraping project, you are 
 
-1. Send a request to a web server.
-2. Check for a response.
-3. View the content of that response.
+1. Send a request to a web server and check for a response.
+2. Use 
+3. 
 4. Save that content to a file. 
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
