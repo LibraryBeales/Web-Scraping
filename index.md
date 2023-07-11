@@ -44,6 +44,7 @@ Normally, in a web scraping project, you are
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
 
+<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>LINK</a></span>
 
 ## Project #3: Refine your scraping to get specific info using Beautiful Soup
 
