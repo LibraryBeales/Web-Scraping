@@ -1,27 +1,38 @@
-# Web Scraping in Python
+# Web Scraping
 
-Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  
+Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.
+
+This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  We will:
+
+- Learn about the request and reponse process of how 
 
 The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
 
 If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
 
-## Why web scrape?
+## Why web scrape?  And when not to...
 
-The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access that information as well.
+The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  
 
 For example, if you were interested in analyzing how people communicate on social media about the NASDAQ, you could manually search for posts tagged with #NASDAQ, copy and paste them or screen shot them, and then begin manually organizing the user names, likes, tags, text content, etc.  You would be limited in the sample size you could analyze by the amount of labor required.
 
-If, however, you built a web scraper to crawl a site and capture every post with a #NASDAQ tag, you'd be able to capture a much larger sample size and save the data in an acccessible format for future researchers.  Analysis of that data, also using python, would allow you to quickly see who posts the most, which posts have the most likes, what stock tickers are mentioned most frequestly in a given time span, etc.  
+If, however, you built a web scraper to crawl a site and capture every post with a #NASDAQ tag, you'd be able to capture a much larger sample size and save the data in an accessible format for future researchers.  Analysis of that data, also using python, would allow you to quickly see who posts the most, which posts have the most likes, what stock tickers are mentioned most frequestly in a given time span, etc.  
 
-In short, web scraping makes the endless data available online accessible and useful. 
+Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access the identical information.
 
+In short, web scraping makes the endless data available online accessible, useful and permanent. 
+
+### Do I really need to web scrape?
+
+Data is available from many sources across a wide variety of disciplines.  If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
+
+So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
 
 
 
 ## Project #1: Making an HTTP Request and Receiving a Response
 
-This first project will use the `requests` package to introduce the basic web scraping workflow.  
+This first project will use the `requests` package to introduce the basic web scraping workflow.  All the lessons on this page use <a href="https://books.toscrape.com/">Books to Scrape</a> as the example website.  As you can probably tell from the name, this is a website set up specifically for practicing web scraping.
 
 In this project you will:
 1. Send a request to a web server.
@@ -31,9 +42,9 @@ In this project you will:
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
-<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>LINK</a></span>
+<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a></span>
 
-## Project #2: Exploring and Analyzing Data from Web Scraping 
+## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
 
 Normally, in a web scraping project, you are 
 
