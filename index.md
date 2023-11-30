@@ -38,7 +38,7 @@ In this project you will:
 1. Send a request to a web server.
 2. Check for a response.
 3. View the content of that response.
-4. Save that content to a file. 
+4. Write that content to a file. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
@@ -46,25 +46,31 @@ In this project you will:
 
 ## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
 
-Normally, in a web scraping project, you are 
+Normally, in a web scraping project, you are looking for specific information.  You don't need to scrape the entire <a href="https://books.toscrape.com/">Books to Scrape</a> page if you are only interested in a list of book titles.  We are going to practice looking at the structure of a web page so we can design a web scraper that only retrieves certain infromation.  Once we understand the way the information we want is tagged and/or organized, we can create rules for the web scraper to follow.  The process of breaking down the parts of the web page to retrieve specific informaiton is frequently referred to as HTML parsing.
 
-1. Send a request to a web server and check for a response.
-2. Use 
-3. 
-4. Save that content to a file. 
+In this project you will:
+1. Use the `Inspect` tool in your web browser to explore the structure of the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
+2. Understand how book titles on the site are tagged/classified. 
+3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in step 2.
+4. Write the list of titles to a file. 
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
 
 <span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>LINK</a></span>
 
-## Project #3: Refine your scraping to get specific info using Beautiful Soup
+## Project #3: Scraping sets of related information into CSV files.
 
+Build a scraper that collects multiple data points about each book based upon specific criteria.
 
-
+In this project you will:
+1. Use the `Inspect` tool in your web browser to identify several pieces of data about each book to collect.
+2. Choose a third data point that will be our filter for which books we want to collect data on. 
+3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in steps 1 and 2.
+4. Write the data to a csv file. 
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
 
-## Project #4: Scraping sets of related information into CSV files.
+## Project #4: Scraping data from mulitple pages.
 
 
 
