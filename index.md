@@ -59,7 +59,7 @@ In this project you will:
 3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in step 2.
 4. Write the list of titles to a file. 
 
-[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
 
 ## Project #3: Scraping sets of related information into CSV files.
