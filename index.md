@@ -2,13 +2,20 @@
 
 Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.
 
-This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  We will:
+This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  We will learn:
 
-- Learn about the request and reponse process of how 
+- what web scraping is and why we would use web scraping to gather data
+- about the HTTP request and reponse process that is the foundation of the web
+- how to make requests and save the response from the web server(s)
+- how to analyze the structure of web pages so we can scrape specific data
+- how python scripts can be constructed to target specific data structres on web pages
+- how to direct the web scraper to navigate through a series of pages and scrape each one
 
 The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
 
 If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
+
+To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
 ## Why web scrape?  And when not to...
 
@@ -20,14 +27,13 @@ If, however, you built a web scraper to crawl a site and capture every post with
 
 Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access the identical information.
 
-In short, web scraping makes the endless data available online accessible, useful and permanent. 
+In short, web scraping can make the endless data available online accessible, useful and permanent. 
 
 ### Do I really need to web scrape?
 
 Data is available from many sources across a wide variety of disciplines.  If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
 
 So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
-
 
 
 ## Project #1: Making an HTTP Request and Receiving a Response
@@ -42,7 +48,6 @@ In this project you will:
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
-<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a></span>
 
 ## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
 
@@ -56,7 +61,6 @@ In this project you will:
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
 
-<span style="font-size:smaller;">To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>LINK</a></span>
 
 ## Project #3: Scraping sets of related information into CSV files.
 
@@ -72,17 +76,21 @@ In this project you will:
 
 ## Project #4: Scraping data from mulitple pages.
 
-
+In this project you will:
+1. Use the `Inspect` tool to explore how <a href="https://books.toscrape.com/">Books to Scrape</a> handles navigation between pages.
+2. Understand and use a python script to direct the web scraper to a navigate to the next page if there is one, and scrape the specified data from there, and repeat this process until there are no more pages.
+3. Examine the data to see if our scraper worked the way we think it should.
+4. Write the data to a csv file. 
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
 
-## Project #5: What's next?  Scraping other pages.
+## Bonus Project: Data Visualization with Plotly.
 
 In this project you will:
-1. Begin with a new web page.
-2. Choose info to scrape.
-3. Build a web scraper specifically for this site and this info.
-4. Save that content to a file.
+1. Examine the csv file we saved from the previous project and determine what values we would like to visualize.  
+2. Look at the <a href="https://plotly.com/python/">Plotly</a> package for Python and determine which kinds of graphs we will could create with the data.  
+3. Understand and use a python script to generate those graphs using the dta we scraped from the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
+4. Save those graphs to a file.
 
 
 
