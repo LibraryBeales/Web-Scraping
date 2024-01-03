@@ -56,8 +56,9 @@ Normally, in a web scraping project, you are looking for specific information.  
 In this project you will:
 1. Use the `Inspect` tool in your web browser to explore the structure of the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
 2. Understand how book titles on the site are tagged/classified. 
-3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in step 2.
-4. Write the list of titles to a file. 
+3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified for titles in step 2.
+4. Look at the list of titles we scraped.  Iredntify problems with the data and explore an alternative way of using Beautiful Soup to get the correc titles.
+5. Write the list of correct titles to a file. 
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
