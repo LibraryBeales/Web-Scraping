@@ -17,7 +17,7 @@ If you are new to using Constellate, python and jupyter notebooks, I recommend t
 
 To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
-## Why web scrape?  And when not to...
+## Why scrape?  And when not to...
 
 The content on the web is an unbelievably rich resource.  However, the information available can be difficult to collect and organize manually.  
 
