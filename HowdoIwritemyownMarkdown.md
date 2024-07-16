@@ -33,7 +33,7 @@ Unordered items:
 
 #### Links
 
-This is a link to [My Wesbite](http://rdavidbeales.com). 
+This is a link to [My Website](http://rdavidbeales.com). 
 
 #### Images
 
