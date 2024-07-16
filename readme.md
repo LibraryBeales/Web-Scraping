@@ -1,9 +1,6 @@
-# Project Title
+# Digital Scholarship Workshop Series - Web Scraping
 
-One Paragraph of the project description
-
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+These files support the web scraping tutorial, which can be found here. https://librarybeales.github.io/Web-Scraping/.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.
 
 ## Getting Started
 
