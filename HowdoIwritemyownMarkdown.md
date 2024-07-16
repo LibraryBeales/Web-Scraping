@@ -37,7 +37,7 @@ This is a link to [My Website](http://rdavidbeales.com).
 
 #### Images
 
-![Description of the image for accessibility(The Great Wave of Kanagawa)](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg)
+![Description of the image for accessibility(The Great Wave of Kanagawa)](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg){width=200}
 
 #### Horizontal Rule
 
