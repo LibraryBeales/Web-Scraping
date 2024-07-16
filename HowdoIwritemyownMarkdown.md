@@ -37,7 +37,7 @@ This is a link to [My Wesbite](http://rdavidbeales.com).
 
 #### Images
 
-![Description of the image for accessibility(The Great Eave of Kanagawa)](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa#/media/File:Tsunami_by_hokusai_19th_century.jpg)
+![Description of the image for accessibility(The Great Wave of Kanagawa)](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa#/media/File:Tsunami_by_hokusai_19th_century.jpg)
 
 #### Horizontal Rule
 
