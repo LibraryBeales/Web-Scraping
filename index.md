@@ -11,11 +11,7 @@ This course will walk you through using several different strategies and several
 - How python scripts can be constructed to target specific data structures on web pages
 - How to direct the web scraper to navigate through a series of pages and scrape each one
 
-The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
-
-###
-
-
+The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.
 
 ### Constellate or Binder?
 
@@ -68,7 +64,7 @@ In this project you will:
 4. Look at the list of titles we scraped.  Identify problems with the data and explore an alternative strategy of using Beautiful Soup to get the correct titles.
 5. Write the list of correct titles to a file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape2.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
 ## Project #3: Scraping sets of related information into CSV files.
@@ -81,7 +77,7 @@ In this project you will:
 3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in steps 1 and 2.
 4. Write the data to a csv file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape3.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape3.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 ## Project #4: Scraping data from mulitple pages.
 
@@ -91,7 +87,7 @@ In this project you will:
 3. Examine the data to see if our scraper worked the way we think it should.
 4. Write the data to a csv file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape4.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape4.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape4.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 ## Bonus Project: Data Visualization with Plotly.
 
@@ -100,7 +96,5 @@ In this project you will:
 2. Look at the <a href="https://plotly.com/python/">Plotly</a> package for Python and determine which kinds of graphs we will could create with the data.  
 3. Understand and use a python script to generate those graphs using the dta we scraped from the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
 4. Save those graphs to a file.
-
-
 
 [![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
