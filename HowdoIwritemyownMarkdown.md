@@ -33,11 +33,13 @@ Unordered items:
 
 #### Links
 
-This is a link to [JSTOR](http://jstor.org). 
+This is a link to [My Website](http://rdavidbeales.com). 
 
 #### Images
 
-![Description of the image for accessibility(a jstor logo)](https://ithaka-labs.s3.amazonaws.com/static-files/images/tdm/tdmdocs/logoJSTOR.png)
+![Description of the image for accessibility(The Great Wave of Kanagawa)](https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg" alt=The Great Wave of Kanagawa width="150">
 
 #### Horizontal Rule
 
