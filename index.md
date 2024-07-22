@@ -13,11 +13,17 @@ This course will walk you through using several different strategies and several
 
 The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
 
+###
+
+
+
 ### Constellate or Binder?
 
 Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
 
-If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  Any changes you make or work you complete will be deleted when closing the tab or window.  You can however download the file you've been working in before closing the browser.  
+If you are not part of Case you can launch these tutorials using the Launch Binder button.  ![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)  
+
+Any changes you make or work you complete will be deleted when closing the tab or window.  You can, however, download a copy of file you've been working in before closing the browser.  
 
 ## Why scrape?  And when not to...
 
@@ -29,7 +35,7 @@ If, however, you built a web scraper to crawl a site and capture every post with
 
 Additionally, the content on the web is constantly changing.  If you are basing your research on information from the web, it would be a good idea to store that infomation somewhere yourself, so that those who are evaluating your research can access the identical information.
 
-In short, web scraping can make the endless data available online accessible, useful and permanent. 
+In short, web scraping can make the endless data available online accessible, useful and permanent.
 
 ### Do I really need to web scrape?
 
@@ -48,7 +54,7 @@ In this project you will:
 3. View the content of that response.
 4. Write that content to a file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape1.ipynb)
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape1.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
 ## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
