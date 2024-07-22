@@ -13,9 +13,11 @@ This course will walk you through using several different strategies and several
 
 The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.  
 
-If you are new to using Constellate, python and jupyter notebooks, I recommend taking Constellate's <a href ="https://ithaka.github.io/constellate-python-basics/">Python Basics course before proceeding.  </a> 
+### Constellate or Binder?
 
-To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
+Constellate is available to Case Western students, staff, and faculty.  To use Constellate you will have to create a JSTOR login that is separate from your University login.  Instructions for that are here:  <a href="https://librarybeales.github.io/CreateLogin/" target=blank>Making a Constellate Account</a>.
+
+If you are not part of Case you can launch these tutorials using the 
 
 ## Why scrape?  And when not to...
 
@@ -46,7 +48,7 @@ In this project you will:
 3. View the content of that response.
 4. Write that content to a file. 
 
-<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+<a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a><a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?urlpath=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping%2Fblob%2Fmain%2Fscrape1.ipynb" target="_blank">![A constellate launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
 
 ## Project #2: Exploring Website Structure and Getting Specific Data from Web Scraping 
