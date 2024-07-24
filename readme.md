@@ -15,7 +15,7 @@ How to setup VS Code for pyth](https://code.visualstudio.com/docs/python/python-
     [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors](https://github.com/LibraryBeales/Web-Scraping/contributors)
 who participated in this project.
 
 ## License
