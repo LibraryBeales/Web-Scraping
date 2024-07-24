@@ -19,8 +19,7 @@ who participated in this project.
 ## License
 
 This project is licensed under the [MIT License](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE)
-MIT License - see the [LICENSE](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE) file for
-details
+- see the [LICENSE](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
