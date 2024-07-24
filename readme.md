@@ -6,6 +6,7 @@ These files support the web scraping tutorial, which can be found here. https://
 
 If you do not want use the cloud options for running the lessons, you can clone the repo and run it locally in an IDE like Visual Studio Code.  
 
+VS Code has an excellent tutorial for getting started with Python in VS Code.
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
 ## Authors
