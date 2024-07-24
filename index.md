@@ -73,7 +73,7 @@ Build a scraper that collects multiple data points about each book based upon sp
 
 In this project you will:
 1. Determine what data we are able to collect about each book listed in the store.  
-2. Use the `Inspect` tool in your web browser to identify the web page struture for those pieces of data. 
+2. Use the `Inspect` tool in your web browser to identify the web page structure for those pieces of data. 
 3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in steps 1 and 2.
 4. Write the data to a csv file. 
 
@@ -94,7 +94,7 @@ In this project you will:
 In this project you will:
 1. Examine the csv file we saved from the previous project and determine what values we would like to visualize.  
 2. Look at the <a href="https://plotly.com/python/">Plotly</a> package for Python and determine which kinds of graphs we will could create with the data.  
-3. Understand and use a python script to generate those graphs using the dta we scraped from the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
+3. Understand and use a python script to generate those graphs using the data we scraped from the <a href="https://books.toscrape.com/">Books to Scrape</a> website.
 4. Save those graphs to a file.
 
-[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping)  <a href="https://mybinder.org/v2/gh/LibraryBeales/Web-Scraping/main?labpath=scrape5.ipynb" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
