@@ -19,10 +19,8 @@ who participated in this project.
 ## License
 
 This project is licensed under the [MIT License](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE)
-- see the [LICENSE](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE) file for details.
+See the [LICENSE](https://github.com/LibraryBeales/Web-Scraping/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+Thank you to all my colleagues and students at CWRU for their help in proofing and refining these materials.
