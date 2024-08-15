@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Digital Scholarship Workshop Series - Web Scraping
+title: Web Scraping - Digital Scholarship Workshop Series
 description: Jupyter Notebooks for exploring the practice and possibilities of web scraping.  
 show_downloads: true # shows download links for the repository
 logo: # can easily be replaced with an institutional logo by uploading a new file
