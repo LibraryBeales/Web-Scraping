@@ -72,7 +72,7 @@ In this project you will:
 Build a scraper that collects multiple data points about each book based upon specific criteria.
 
 In this project you will:
-1. Determine what data we are able to collect about each book listed in the store.  
+1. Determine what data you are able to collect about each book listed in the store.  
 2. Use the `Inspect` tool in your web browser to identify the web page structure for those pieces of data. 
 3. Understand and use a python script to crawl the web page and extract only the data that meets the classification criteria we identified in steps 1 and 2.
 4. Write the data to a csv file. 
